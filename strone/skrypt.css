@@ -156,7 +156,7 @@ color: #5b627e;
 } .gallery {
 
 text-align: center; 
-  margin: auto;
+  margin: 0 auto;
     
   background: linear-gradient(to bottom, #627d4d 24%,#1f3b08 71%); 
   padding: 5px; 
@@ -179,10 +179,10 @@ font-size: 40px;
 
 .gallery-pics img {
 
-object-fit: cover; position: relative;
+object-fit: cover; position: absolute;
 
 padding: 5px; float: left;
-margin: 0 auto;
+
 width: 25%; max-height: 150px;
 
 }
