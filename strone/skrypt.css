@@ -153,7 +153,8 @@ background-color: #FFFFFF;
 
 color: #5b627e;
 
-} .gallery {
+} 
+.gallery {
 
 text-align: center; 
   margin: 0 auto;
@@ -185,7 +186,7 @@ object-fit: cover;
 padding: 5px; 
   float: left;
 
-width: 15%; 
+width: 25%; 
   max-height: 150px;
 
 }
