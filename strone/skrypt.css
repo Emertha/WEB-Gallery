@@ -179,17 +179,22 @@ font-size: 40px;
 
 .gallery-pics img {
 
-object-fit: cover; position: relative;
+object-fit: cover; 
+  position: relative;
 
-padding: 5px; float: left;
+padding: 5px; 
+  float: left;
 
-width: 25%; max-height: 150px;
+width: 15%; 
+  max-height: 150px;
 
 }
 
 .gallery-pics img:hover { z-index: 1;
 
-transform: scale(2.0,2.0); transition: .3s transform; cursor: pointer;
+transform: scale(2.0,2.0); 
+  transition: .3s transform; 
+  cursor: pointer;
 
 }
 
