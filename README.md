@@ -1,4 +1,3 @@
-# WEB-Gallery
 * {
 
  box-sizing: border-box;
