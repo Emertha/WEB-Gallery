@@ -182,11 +182,11 @@ font-size: 40px;
 
 object-fit: cover; 
   position: relative;
-margin: 0 auto;
+
 padding: 5px; 
   float: left;
 
-width: 25%; 
+width: 20%; 
   max-height: 150px;
 
 }
