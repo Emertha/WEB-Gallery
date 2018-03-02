@@ -138,6 +138,11 @@ transform: scale(2.0,2.0);
   cursor: pointer;
 }
 
+.container-info {
+ display: flex;
+ flex-direction: row;
+}
+
 footer {
 background-color: #142804;
 text-align: center;
