@@ -152,19 +152,19 @@ text-align: center;
 
 .container-info > div {
   background-color: rgba(255, 255, 255, 0.5);
+ 
   margin: 10px;
 padding: 10px;
-  text-align: center; 
+  text-align: center;
+  
   font-size: 14px;
-}
 
-.container-info-text {
+
 color: #5b627e;
 padding: 50px;
 margin: 0;
 font-size: 40px;
-
-}
+ }
 
 .container-info img {
 max-width:100%;
