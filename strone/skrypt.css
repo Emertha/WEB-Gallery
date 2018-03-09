@@ -24,6 +24,8 @@ background-color: #006633;
 float: left; 
  margin-top: 5px;
  max-width: 20%;
+ margin-left: -10px;
+ margin-right: -10px;
 }
 
 .menu {
