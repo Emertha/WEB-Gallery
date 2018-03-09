@@ -20,6 +20,13 @@ height: 20%;
 background-color: #006633; 
 } 
 
+.hamburger {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
 .logo {
 float: left; 
  margin-top: 5px;
