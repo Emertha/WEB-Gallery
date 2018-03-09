@@ -30,7 +30,7 @@ background-color: #006633;
 .logo {
 float: left; 
  margin-top: 5px;
- width: 2%;
+ max-width: 100%
 }
 
 .menu {
