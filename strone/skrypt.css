@@ -35,7 +35,7 @@ float: left;
 
 .menu {
 float: right;
- width: 80%;
+ max-width: 100%
 }
 
 .clear {
