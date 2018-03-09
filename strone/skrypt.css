@@ -23,7 +23,7 @@ background-color: #006633;
 
 .logo {
 float: left; 
- margin-top: 5px;
+ margin-top: 15%;
 }
 
 .logo > img {
@@ -138,7 +138,7 @@ font-size: 40px;
 object-fit: cover; 
   position: relative;
 padding: 5px; 
-width: 30; 
+width: 30px; 
  height: 20px;
 }
 
