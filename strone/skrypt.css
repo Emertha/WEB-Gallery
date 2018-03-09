@@ -166,7 +166,7 @@ text-align: center;
 padding: 10px;
   text-align: center; 
   font-size: 14px;
- max-width: 40%
+ width: 40%
 }
 .container-info-text {
 color: #5b627e;
@@ -177,8 +177,6 @@ font-size: 40px;
 
 .container-info > div img {
 max-width:90%
- margin: auto;
- 
  }
 
 footer {
