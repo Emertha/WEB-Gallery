@@ -139,6 +139,7 @@ padding: 5px;
  float: left;
 width: 25%; 
   max-height: 130px;
+ max-width: 100%
 }
 
 .gallery-pics img:hover { z-index: 1;
@@ -167,6 +168,7 @@ padding: 10px;
   text-align: center;
   
   font-size: 14px;
+ max-width: 100%
 }
 .container-info-text {
 color: #5b627e;
