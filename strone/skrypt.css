@@ -24,10 +24,11 @@ background-color: #006633;
 .logo {
 float: left; 
  margin-top: 5px;
+ width: 15%;
 }
 
 .logo > img {
- margin:-21.875% 0;
+ margin:-10% 0;
 }
 
 .menu {
@@ -130,7 +131,7 @@ font-size: 40px;
 }
 .gallery-pics {
  position: relative;
- float: left;
+ margin: auto;
 }
 
 .gallery-pics img {
