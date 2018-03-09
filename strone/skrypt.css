@@ -24,11 +24,11 @@ background-color: #006633;
 .logo {
 float: left; 
  margin-top: 5px;
- width: 15%;
 }
 
 .logo > img {
- margin:-10% 0;
+margin-left: -10px;
+
 }
 
 .menu {
