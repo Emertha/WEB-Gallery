@@ -30,10 +30,12 @@ background-color: #006633;
 .logo {
 float: left; 
  margin-top: 5px;
+ width: 20%;
 }
 
 .menu {
 float: right;
+ width: 80%;
 }
 
 .clear {
