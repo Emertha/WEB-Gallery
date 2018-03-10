@@ -23,13 +23,14 @@ background-color: #006633;
 .logo {
 float: left; 
  margin-top: 5px;
+ margin-left: 10px;
  display:block;
  width: 50px;
 }
 
 .logo > img {
   max-width:90%;
-  
+
 }
 
 .menu {
@@ -152,34 +153,35 @@ transform: scale(2.0,2.0);
 }
 
 .container-info {
- display: flex;
- flex-direction: row;
- max-width: 1000px;
-margin: 0 auto;
- 
-text-align: center; 
- 
-  padding-bottom: 30px; 
-  
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
 }
 
+
 .container-info > div {
-  background-color: rgba(255, 255, 255, 0.5); 
+  background-color: rgba(255, 255, 255, 0.5);
+ 
   margin: 10px;
 padding: 10px;
   text-align: center;
-  
+  color: #5b627e;
   font-size: 14px;
+
+
 }
-.container-info-text {
-color: #5b627e;
-padding: 50px;
-margin: 0;
-font-size: 40px;
- }
+
+.image {
+
+margin-top: 50px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
 
 .container-info > div img {
-max-height:100%:
+width: 100%;
+margin:auto;
 
  }
 
