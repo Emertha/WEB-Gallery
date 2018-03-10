@@ -16,24 +16,24 @@ margin: 0 auto;
 
 header {
 width: 100%;
-height: 20%;
+height: 2%;
 background-color: #006633; 
 } 
 
 .logo {
 float: left; 
- margin: auto;
- width: 100px;
+ margin-top: 5px;
+ display:block;
+ width: 50px;
 }
 
 .logo > img {
-max-width: 65%;
-
+  max-width:90%;
+  
 }
 
 .menu {
 float: right;
- max-width: 75%;
 }
 
 .clear {
@@ -58,7 +58,7 @@ font-size: 18px;
 text-align: center;
 display: inline-block;
 line-height: 60px;
-padding: 0 15px;
+padding: 0 10px;
 }
 
 ul li a:hover {
@@ -116,9 +116,11 @@ color: #5b627e;
 
 .gallery {
 text-align: center; 
-  margin: 0 auto;
+
+
+  margin: auto;
   background: linear-gradient(to bottom, #627d4d 24%,#1f3b08 71%); 
-  padding: 5px; 
+  padding: 3px; 
   padding-bottom: 50px; 
   box-shadow: 0 1px 2px rgba(0,0,0,.3);
 }
@@ -126,20 +128,21 @@ text-align: center;
 .gallery-text {
 color: #5b627e;
 padding: 50px;
-margin: 0;
+margin: auto;
 font-size: 40px;
 }
+
 .gallery-pics {
- position: relative;
- margin: auto;
+float:left;
+
 }
 
 .gallery-pics img {
 object-fit: cover; 
   position: relative;
 padding: 5px; 
-width: 30px; 
- height: 20px;
+width: 20%; 
+  max-height: 250px;
 }
 
 .gallery-pics img:hover { z-index: 1;
@@ -163,31 +166,30 @@ text-align: center;
 .container-info > div {
   background-color: rgba(255, 255, 255, 0.5); 
   margin: 10px;
- float: left;
 padding: 10px;
-  text-align: center; 
+  text-align: center;
+  
   font-size: 14px;
- width: 40%
 }
-
 .container-info-text {
 color: #5b627e;
 padding: 50px;
-margin: auto;
+margin: 0;
 font-size: 40px;
  }
 
 .container-info > div img {
-max-width:90%
+max-height:100%:
+
  }
 
 footer {
 background-color: #142804;
 text-align: center;
- color: #DDEEE1;
+color: #DDEEE1;
 }
 
 footer p {
-margin: 0;
+margin: auto;
 padding: 20px
 }
